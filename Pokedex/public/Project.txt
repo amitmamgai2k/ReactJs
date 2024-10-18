@@ -1,0 +1,1 @@
+First we made components folder and then make search component inside it
